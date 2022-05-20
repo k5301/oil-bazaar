@@ -6,5 +6,4 @@ Dealer can maintain their account/shop for more than one location and can set hi
 
 Visitor/Customers can find the best dealers in his selected location for his selected item. He can select item for his particular vehicle or can choose item of a popular brand as per his choice. 
 
-[![Multi-Featured-Calculator](https://img.youtube.com/vi/iGigcBIpA1o/0.jpg)](https://www.youtube.com/watch?v=iGigcBIpA1o)
-
+[![Multi-Featured-Calculator](https://img.youtube.com/vi/7BPpasy2SeM/0.jpg)](https://www.youtube.com/watch?v=7BPpasy2SeM&list=PLzphKUDKeWDzD7WYYHV_Ia2f9Sq6qzBcd&index=6)
